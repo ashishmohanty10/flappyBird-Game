@@ -1,5 +1,10 @@
-# Build a Flappy Bird Game with JavaScript
+## Flappy bird Game using Kaboom Js
 
-# [Tutorial](https://youtu.be/jr-XVRX163I)
+<div>First Clone the Repo using below code</div>
+` git clone `<br/>
 
-![Screenshot of App](https://i.ibb.co/6g0PxYY/Group-36.png)
+<div>Install the dependencies</div>
+` npm install ` <br/>
+
+<div>Run the code</div>
+` npm run dev `

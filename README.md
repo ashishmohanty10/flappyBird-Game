@@ -1,10 +1,23 @@
-## Flappy bird Game using Kaboom Js
+# Flappy bird Game using Kaboom Js
 
 <div>First Clone the Repo using below code</div>
-` git clone `<br/>
 
-<div>Install the dependencies</div>
-` npm install ` <br/>
+```bash
+git clone <code repo link>
+```
 
-<div>Run the code</div>
-` npm run dev `
+<div>Install dependencies<div>
+
+```bash
+npm install
+```
+
+<div>Run it</div>
+
+```bash
+npm run dev
+```
+
+## Preview
+
+<img src="./public/preview.png"/>
